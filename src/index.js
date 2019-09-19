@@ -6,7 +6,7 @@ import Videolist from './videolist'
 import Videodetail from './videodetail/videodetaillist'
 // import '../style'
 
-const Key = 'AIzaSyC60n9-1vC9zWWP_KN4qqOxbaa42SGbHSU' ;
+const Key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx' ;
 const term = 'bom diggy diggy'
 
 
