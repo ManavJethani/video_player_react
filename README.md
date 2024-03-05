@@ -1,1 +1,1 @@
-# video_player_react
+Integrating Youtube API to create video player like youtube from scratch
